@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtabsPlugin2017", "EtabsPlugin2017\EtabsPlugin2017.csproj", "{FE0D9773-7953-4F82-8B5F-564E0F7F6F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0D9773-7953-4F82-8B5F-564E0F7F6F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0D9773-7953-4F82-8B5F-564E0F7F6F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0D9773-7953-4F82-8B5F-564E0F7F6F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0D9773-7953-4F82-8B5F-564E0F7F6F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FC6FA5-E0EB-4572-857C-4591EF7D6F39}
+	EndGlobalSection
+EndGlobal
