@@ -7,4 +7,4 @@
 
 ## Workflow
 ![Workflow](Image/Workflow.png)
-1. Save Grid Info of the building in an Excel File ([Sample](Grasshopper/GridInfo.xlsx))
+1. Save Grid Info of the building in an Excel File ([Sample](Grasshopper))
