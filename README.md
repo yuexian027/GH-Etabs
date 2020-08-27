@@ -14,4 +14,5 @@
 
 
 ## Prerequisites
-### Grasshopper
+### Grasshopper(library, python package)
+### Visaul Studio ()
