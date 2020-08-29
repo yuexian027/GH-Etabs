@@ -27,8 +27,8 @@
      1. In Rhino type EditPythonScript
      2. In this Python editor go Tools -> Options -> Files. Then you will see an overview of current paths used
      3. Move the folders xlrd and xlsxwriter to one of the directories.
-
-
-
+  
    
-### Visaul Studio ()
+* Visaul Studio 2017
+   * Add references
+   * Add default path 
