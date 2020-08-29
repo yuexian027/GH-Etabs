@@ -15,8 +15,13 @@
 
 ## Prerequisites
 * Grasshopper
-#### Install python package used to read Excel file
-
-
-
+   * Install python package (xlrd) to read Excel file ([xlrd.PyPI](https://pypi.org/project/xlrd/#files))
+   ~~~~
+   pip install xlrd-1.2.0-py2.py3-none-any.whl
+   ~~~~
+   * Install python package (xlsxwriter) to write to Excel file ([xlsxwriter.PyPI](https://pypi.org/project/XlsxWriter/))
+   ~~~~
+   pip install XlsxWriter-1.3.2-py2.py3-none-any.whl
+   ~~~~ 
+   
 ### Visaul Studio ()
