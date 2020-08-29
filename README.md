@@ -14,5 +14,9 @@
 
 
 ## Prerequisites
-### Grasshopper(library, python package)
+*Grasshopper
+#### Install python package used to read Excel file
+
+
+
 ### Visaul Studio ()
