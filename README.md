@@ -24,9 +24,9 @@
    pip install XlsxWriter-1.3.2-py2.py3-none-any.whl
    ~~~~ 
    * Install Python package to Grasshopper
-      1. In Rhino type in the command "EditPythonScript".
-      2. In this Python editor go Tools -> Options -> Files. Then you will see an overview of current paths used
-      3. Move the folders xlrd and xlsxwriter to one of the directories.
+      a. In Rhino type in the command "EditPythonScript".
+      b. In this Python editor go Tools -> Options -> Files. Then you will see an overview of current paths used
+      c. Move the folders xlrd and xlsxwriter to one of the directories.
 
 
 
