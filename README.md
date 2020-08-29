@@ -14,7 +14,7 @@
 
 
 ## Prerequisites
-*Grasshopper
+* Grasshopper
 #### Install python package used to read Excel file
 
 
