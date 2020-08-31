@@ -38,7 +38,7 @@
 ![Result](Image/reference.png)
 
 ## Reference
-   * (C# Scripting and Plugin Development for Grasshopper)[https://www.youtube.com/channel/UCUJgViAduAoRsf89ZtyF8dQ] (highly recommend to go through this tutorial especially Part 3 and Part 4 for Grasshopper setting in Visual Studio)
-   * (ETABS API - Advanced Modelling Tutorial (Parametric Design))[https://www.youtube.com/watch?v=wArOhT8czc4]
+   * [C# Scripting and Plugin Development for Grasshopper](https://www.youtube.com/channel/UCUJgViAduAoRsf89ZtyF8dQ) (highly recommend to go through this tutorial especially Part 3 and Part 4 for Grasshopper setting in Visual Studio)
+   * [ETABS API - Advanced Modelling Tutorial (Parametric Design)](https://www.youtube.com/watch?v=wArOhT8czc4)
    
       
