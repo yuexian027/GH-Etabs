@@ -33,7 +33,8 @@
    * Add reference to Visual studio to use API of Etabs,Excel and Grasshopper
       ### Grasshopper
       - use the Grasshopper Add-on for v6(c#) template and make sure load the references correctly
-      ![Template and reference](Image/Template and reference.png)
+![template](Image/Template and reference.png)
       - customize directory of a post-build grasshopper gha file (recommend to copy it to Library folder of Grasshopeer)
       - add the following Etabs and Excel API (recommend to copy the Etabs dll file to the same folder of solution file)
    * Add default path 
+      
