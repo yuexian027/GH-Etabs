@@ -31,9 +31,11 @@
    
 * Visaul Studio 2017
    * Use the Grasshopper Add-on for v6(c#) template and make sure load the references correctly
-<img src="Image/Template.png" width = "600" height = "400"/>
+<img src="Image/Template.png" width = "600" height = "300"/>
+
    * Customize directory of a post-build grasshopper gha file (recommend to copy the build file to Grasshopper Library folder)
 ![Result](Image/directory.png)
+
    * Add the following Etabs and Excel API (recommend to copy the Etabs dll file to the same folder of solution file)
 ![Result](Image/reference.png)
 
