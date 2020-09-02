@@ -37,6 +37,9 @@
    * Add the following Etabs and Excel API (recommend to copy the Etabs dll file to the same folder of solution file)
 ![Result](Image/reference.png)
 
+![Result](Image/video cover.png)
+
+
 ## Reference
    * [C# Scripting and Plugin Development for Grasshopper](https://www.youtube.com/channel/UCUJgViAduAoRsf89ZtyF8dQ) (highly recommend to go through this tutorial especially Part 3 and Part 4 for Grasshopper setting in Visual Studio)
    * [ETABS API - Advanced Modelling Tutorial (Parametric Design)](https://www.youtube.com/watch?v=wArOhT8czc4)
