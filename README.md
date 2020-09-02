@@ -34,10 +34,10 @@
    <img src="Image/Template.png" width = "600" height = "300"/>
 
    * Customize directory of a post-build grasshopper gha file (recommend to copy the build file to Grasshopper Library folder)
-   <img src="Image/Template.png" width = "600" height = "300"/>
+   <img src="Image/directory.png" width = "600" height = "300"/>
 
    * Add the following Etabs and Excel API (recommend to copy the Etabs dll file to the same folder of solution file)
-   ![Result](Image/reference.png)
+   <img src="Image/reference.png" width = "200" height = "300"/>
 
 ## Walk-Through Tutorial
 
