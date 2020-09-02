@@ -37,7 +37,7 @@
    * Add the following Etabs and Excel API (recommend to copy the Etabs dll file to the same folder of solution file)
 ![Result](Image/reference.png)
 
-[![Result](Image/videocover.png)](https://www.youtube.com/watch?v=_aoEh812GE4)
+[![Result](Image/videocover11.png)](https://www.youtube.com/watch?v=_aoEh812GE4)
 
 
 
